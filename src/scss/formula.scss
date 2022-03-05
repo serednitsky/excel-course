@@ -9,7 +9,7 @@
   border-bottom: 1px solid $border-color;
 
   .info {
-    font-size: 18px;
+    font-size: $fz18;
     font-style: italic;
     text-align: center;
     border-right: 1px solid $border-color;
@@ -18,10 +18,10 @@
 
   .input {
     padding: 4px;
-    font-size: 12px;
+    font-size: $fz12;
     outline: none;
     width: 100%;
     height: 100%;
-    color: #111;
+    color: $color-black;
   }
 }
