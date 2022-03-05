@@ -31,7 +31,7 @@
     align-items: center;
     font-size: 1.5rem;
     text-decoration: none;
-    color: #111;
+    color: $color-black;
     text-align: center;
 
     &:hover {
@@ -56,7 +56,7 @@
     justify-content: space-between;
     color: #202124;
     font-weight: 500;
-    font-size: 16px;
+    font-size: $fz16;
     margin-bottom: 10px;
     padding: 0 12px;
   }
@@ -81,7 +81,7 @@
       text-decoration: none;
       cursor: pointer;
       color: #202124;
-      font-size: 14px;
+      font-size: $fz14;
 
       &:hover {
         text-decoration: underline;

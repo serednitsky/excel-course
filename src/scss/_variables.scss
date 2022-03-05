@@ -1,3 +1,4 @@
+//sizes
 $header-height: 34px;
 $toolbar-height: 40px;
 $formula-height: 24px;
@@ -5,7 +6,17 @@ $info-cell-width: 40px;
 $cell-width: 120px;
 $row-height: 24px;
 $db-header-height: 64px;
+
 //colors
 $border-color: #c0c0c0;
 $color-green: #1a8108;
 $color-red: #a91313;
+$color-black: #111;
+
+//typography
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+$fz18: 18px;
+$fz16: 16px;
+$fz14: 14px;
+$fz12: 12px;
